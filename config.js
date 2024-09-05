@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["523325035474", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
+["523325035474", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //king 𝑩𝒐𝒕
 ["523325992493", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
 ["523131590662", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
 
@@ -121,8 +121,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
-global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.packname = "KING 𝑩𝒐𝒕"
+global.author = "KING 𝑩𝒐𝒕"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,7 +130,7 @@ global.author = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1"
 global.vsJB = "1"
-global.gt = "𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕"
+global.gt = "KING 𝑩𝒐𝒕"
 
 global.yt = "https://www.instagram.com/shadow.vz/"
 global.yt2 = "https://www.instagram.com/shadow.vz/"
@@ -191,7 +191,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "5215541081250"
+global.nomorown = "523131590662"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
