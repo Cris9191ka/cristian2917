@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
+["523325035474", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true], //𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕
+["523325992493", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true],
+["523131590662", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', true]]
 
 global.mods = []
 global.prems = []
@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1], 
+["523131590662", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1], 
 ["5215541081250", '𝑺𝒉𝒂𝒅𝒐𝒘𝒔 𝑩𝒐𝒕', 1]]
 
 global.mail = '' // Add email
